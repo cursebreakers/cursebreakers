@@ -4,4 +4,5 @@
 - 💞️ Our network is constantly growing!
 - 📫 cursebreakersapp.wordpress.com
 
+cursebreakers.net
 cursebreakers@outlook.com
