@@ -2,4 +2,4 @@
 - 👀 Hatching our initiative
 - 🌱 To develop a custom platform.
 - 💞️ Our network is constantly growing!
-- 📫 cursebreakersapp.wordpress.com
+- 📫 cursebreakers.org
