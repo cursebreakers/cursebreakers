@@ -1,5 +1,5 @@
-- 👋 Greetings, we are @cursebreakers
-- 👀 Hatching our initiative
-- 🌱 To develop a custom platform.
-- 💞️ Our network is constantly growing!
-- 📫 cursebreakers.org
+# Hello World!
+- 👋 Greetings from @cursebreakers
+## 🌱 Our mission: To empower the world with information and technology! 💞️
+### 👀 Stay tuned at: [Cursebreakers.org](https://cursebreakers.org) && [Cursebreakers.net](https://cursebreakers.net)
+- 📫 Contact: hello@cursebreakers.net
