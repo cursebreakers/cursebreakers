@@ -1,5 +1,8 @@
-# Hello World!
-- Greetings from @cursebreakers
-- Our mission: To empower the world with information and technology.
-## Stay tuned at: [Cursebreakers.org](https://cursebreakers.org) && [Cursebreakers.net](https://cursebreakers.net) 👀
-- 📫 hello@cursebreakers.net
+# Hello, World!
+
+*Welcome to the digital dark ages.*
+
+[Join the mission for a brighter future](https://cursebreakers.org).
+
+Questions?
+- Send an email: [hello@cursebreakers.net](mailto:hello@cursebreakers.net)
