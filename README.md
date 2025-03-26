@@ -5,4 +5,4 @@
 [Join the mission for a brighter future](https://cursebreakers.org).
 
 Questions?
-- Send an email: [hello@cursebreakers.net](mailto:hello@cursebreakers.net)
+- Send an email to [hello@cursebreakers.net](mailto:hello@cursebreakers.net)
